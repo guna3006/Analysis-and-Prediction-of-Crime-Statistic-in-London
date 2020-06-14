@@ -1,2 +1,0 @@
-Download the data from : https://www.kaggle.com/jboysen/london-crime
-** This due the data file size exit 100MB, and not able to upload in github
